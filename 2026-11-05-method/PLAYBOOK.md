@@ -1,0 +1,6 @@
+# Method playbook (from spoken + on-screen text)
+## Reel DdQTsGVzkjR (Robert McKeaveney) - "How to go viral for caveman"
+Spoken: 3 parts = Hook, Build-up, Payoff. Hook = present a question to the viewer. Viewer wants the answer, so they keep watching (build-up) = watch time. Build-up tells a story; story keeps them engaged and leads into the payoff. Payoff answers the question and makes the viewer feel an emotion -> like, comment, share; watching the whole video -> viral. When one goes viral, double down: post more = more chances.
+On screen: title + stats card (views/watch time) 0-2s; example hook card "Some idiot backed into my Bugatti" (a question-raising hook); "Average watch time 19s"; "WATCHES" meme; "CINEMA" (story); 1.3M likes, 9,040 shares, 19,329,610 views; retention graph; grid of videos (double down); profile card (follow).
+## Carousel DfQ5RxHjg1S (Kallaway) - "Triple Hook Method"
+1 Set immediate context in the first line (say it, show it, write it; ideally all 3 aligned); delaying context raises skip rate. 2 The Lean: make them curious in a direction (shock, pain point, or proof/specific stat). Read the first 1-2 lines alone: clear context + curiosity? 3 Contrarian Snapback: pull them the opposite way from where they were leaning. CTA: comment a keyword.
