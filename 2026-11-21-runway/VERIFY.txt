@@ -1,0 +1,26 @@
+RW10–RW11 — 2026-11-21 Runway ads
+Look: warm brick / honey-oak / cognac-leather barbershop at golden hour (not the mint shop of RW01–RW09)
+Model: Nano Banana 2.1, 2K, 9:16 (1536×2752 stills)
+Method: ffmpeg Ken Burns + plain white text (no outline) + Ava (en-US-AvaNeural, +4% / +2Hz) + Trimmr end card
+No music. 1080×1920, 30 fps, h264+aac, ~10.40 s. Free plan only; no credit purchase or upgrade.
+
+Credits: started 126 purchased, spent 24 (4 × 6), remaining 102 purchased (plan 0).
+
+Stills / task IDs:
+  shop_gold.png    74e326bf-644b-4efc-8241-90ecbe2c4ba1
+  client_pay.png   792178d7-1a6a-4c67-a570-dc6bac2a1ba5
+  barber_dms.png   8d834fe9-1d03-4e74-9f08-8519a2709d23
+  barber_work.png  45236ae5-fec2-4c67-8b1f-9d7e8f5e8a75
+
+RW10_easiest_side_hustle.mp4
+  BA referral. VO 9.216 s, video 10.400 s
+  mean_volume -24.7 dB, max_volume -6.0 dB
+  Shots: shop_gold + client_pay. End card: Become a part of Trimmr / Get your code / Refer a barber, earn $7–$20
+
+RW11_cut_the_dms.mp4
+  Barber-facing. VO 9.504 s, video 10.400 s
+  mean_volume -24.8 dB, max_volume -6.7 dB
+  Shots: barber_dms + barber_work. End card: Booking built for barbers / Keep what you charge / Zero booking commission
+
+Both files: 1080×1920 30fps libx264 yuv420p + AAC 160k 48kHz stereo +faststart
+Do not post or schedule until Dylan approves.
