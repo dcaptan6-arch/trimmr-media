@@ -1,0 +1,18 @@
+RW12–RW14 — 2026-11-22 Runway ads
+Look: after-hours / blue-hour neighborhood barbershop (teal neon OPEN sign + warm tungsten bulbs, checkered tile, dark walnut) — new vs RW01–09 (mint) and RW10–11 (golden-hour brick)
+Model: Nano Banana 2.1, 2K, 9:16 (1536×2752 stills)
+Method: ffmpeg Ken Burns + plain white text (soft shadow, no outline) + Ava (en-US-AvaNeural, +4% / +2Hz) + Trimmr end card
+No music. 1080×1920, 30 fps, h264+aac, 10.40 s. Free plan only; no credit purchase or upgrade. Video/speech/SFX/music models remain blocked on Free plan.
+
+Credits: started 102 purchased, spent 24 (4 × 6), remaining 78 purchased (plan 0).
+
+Stills / task IDs:
+  shop.png         5c14af72-fa61-40ff-b326-3de76cfcf032
+  client_pay.png   3f75e7a5-009a-4054-8b48-eb801f7d85df
+  barber_dms.png   bef4cff8-6df5-436a-b049-69f3906e3096
+  barber_work.png  43454791-35cc-4754-be32-60e075fd162c
+
+Ads: RW12 (BA: shop + client_pay), RW13 (BA: barber_work + shop), RW14 (barber-facing: barber_dms + barber_work)
+RW12_easy_20_after_hours.mp4 h264,1080,1920 aac 10.400000  mean_volume: -24.7 dB
+RW13_side_hustle_in_the_chair.mp4 h264,1080,1920 aac 10.400000  mean_volume: -24.5 dB
+RW14_still_booking_on_paper.mp4 h264,1080,1920 aac 10.400000  mean_volume: -24.4 dB
