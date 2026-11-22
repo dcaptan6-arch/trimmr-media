@@ -16,3 +16,4 @@ Ads: RW12 (BA: shop + client_pay), RW13 (BA: barber_work + shop), RW14 (barber-f
 RW12_easy_20_after_hours.mp4 h264,1080,1920 aac 10.400000  mean_volume: -24.7 dB
 RW13_side_hustle_in_the_chair.mp4 h264,1080,1920 aac 10.400000  mean_volume: -24.5 dB
 RW14_still_booking_on_paper.mp4 h264,1080,1920 aac 10.400000  mean_volume: -24.4 dB
+Hosted (trimmr-media/2026-11-22-runway): raw + blob HTTP 200 for all 3, raw size == local size (6908502 / 8042686 / 7533833).
