@@ -1,0 +1,5 @@
+# VERIFY Runway ads RW15-RW17 (Mon Nov 23 PT)
+OK raw 200 / blob 200 local=8002338 hosted=8002338 RW15_easy_20_loft_morning.mp4 1080x1920 | audio=1 Ava VO only, no music | 10.40 s
+OK raw 200 / blob 200 local=6447045 hosted=6447045 RW16_send_your_barber_the_code.mp4 1080x1920 | audio=1 Ava VO only, no music | 10.40 s
+OK raw 200 / blob 200 local=8128552 hosted=8128552 RW17_bookings_with_your_coffee.mp4 1080x1920 | audio=1 Ava VO only, no music | 10.40 s
+ALL OK: True
